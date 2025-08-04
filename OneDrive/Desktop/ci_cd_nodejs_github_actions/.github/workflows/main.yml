@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/goutham-node-app:latest
+          tags: gouthambabu2121/goutham-node-app:latest
